@@ -1,0 +1,2 @@
+C:\Users\Sylvestor\Documents\Visual Studio 2013\Projects\CMPE285HealthProject\CMPE285HealthProject.Azure\bin\Release\ServiceConfiguration.cscfg
+C:\Users\Sylvestor\Documents\Visual Studio 2013\Projects\CMPE285HealthProject\CMPE285HealthProject.Azure\bin\Release\ServiceDefinition.csdef
